@@ -27,6 +27,11 @@
       "ejs": "can/view/ejs/system",
       "mustache": "can/view/mustache/system",
       "stache": "can/view/stache/system"
+    },
+    "buildConfig": {
+      "map": {
+        "can/util/util" : "can/util/domless/domless"
+      }
     }
   }
 }
