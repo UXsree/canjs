@@ -13,7 +13,7 @@
 *There is no code to download for this chapter*
 - - -
 
-The `define` plugin allows you to finely control the the behavior of the
+The `define` plugin allows you to finely control the behavior of the
 attributes on a `can.Map`. For any property you declare in the `define` plugin,
 you can control its:
 
